@@ -1,1 +1,1 @@
-Gaming Webapp Frontend Using React JS. Made With ❤️ By Shubham
+Gaming Webapp Frontend Using React JS. Made With ❤️ By Himanshu
